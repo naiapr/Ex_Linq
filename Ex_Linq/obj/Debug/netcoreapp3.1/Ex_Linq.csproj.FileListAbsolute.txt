@@ -1,0 +1,13 @@
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.exe
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.deps.json
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.runtimeconfig.json
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.runtimeconfig.dev.json
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.dll
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\bin\Debug\netcoreapp3.1\Ex_Linq.pdb
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.csprojAssemblyReference.cache
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.csproj.CoreCompileInputs.cache
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.AssemblyInfoInputs.cache
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.AssemblyInfo.cs
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.dll
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.pdb
+C:\Users\naiap\source\repos\Ex_Linq\Ex_Linq\obj\Debug\netcoreapp3.1\Ex_Linq.genruntimeconfig.cache
